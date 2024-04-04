@@ -4,8 +4,7 @@ import java.io.*;
 import java.net.*;
 
 public class Main {
-    //String targetUrl = "http://192.168.1.4:3389/";
-    static String targetUrl = "https://proxy.mjczy.top/desktop/";
+    static String targetUrl = "http://192.168.1.4:3389/";
     static int listenTcpPort = 8080;
     static String bindIp = "::";
     public static void main(String[] args) {

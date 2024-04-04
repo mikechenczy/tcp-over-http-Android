@@ -12,7 +12,7 @@
         android:id="@+id/edit_text_ws"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="http://ipv6.mjczy.top:3389/"/>
+        android:text="http://192.168.1.4:3389/"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
